@@ -1,0 +1,11 @@
+button {
+    background-color: #0bda51;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    margin: auto;
+    align-self: center;
+    position: absolute;
+    top: 50vh;
+}
